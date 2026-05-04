@@ -1,22 +1,4 @@
-<<<<<<< HEAD
 
-body{ font-family: Arial, sans-serif;
-      margin: 0;
-      background-color: #f0f4f8;
-      color: #333;
-}
-
-nav{
-    margin-top: 10px;
-    color: white;
-    padding: 20px;
-    
-}
-
-
-
-
-=======
 body{
    background-image: url(image-37-1024x683.png);
    background-position: center;
@@ -24,6 +6,11 @@ body{
   background-size: cover;
   background-attachment: fixed;
 }
+marquee{
+    font-size: 40px;
+    box-shadow: 2px 2px 10px white;
+}
+    
 
 h1{
     color: black;
@@ -54,4 +41,15 @@ ul li a{
     color: rgb(121, 90, 29);
     text-decoration: none;
 }
->>>>>>> b33a7941394093a5b8ee650b1106246bf1edde71
+
+.tarjeta{
+    width: 400px;
+    background: white;
+    border: 2px;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px gray;
+    display: inline-block;
+    vertical-align: top;
+}
