@@ -6,6 +6,11 @@ body{
   background-attachment: fixed;
 }
 
+marquee{
+    font-size: 40px;
+    box-shadow: 2px 2px 10px white;
+}
+
 h1{
     color: black;
     font-size: 40 px;
